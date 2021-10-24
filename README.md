@@ -1,1 +1,1 @@
-# Flower-Recognition-CNN
+Deep learning-based model to predict the flower, from the given five categories in the dataset. Performed exploratory data analysis, data augmentation and used various evaluation techniques. The model is made up of CNN, with max-pooling layers.
